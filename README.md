@@ -4,7 +4,7 @@
 
 ### 安装
 git clone https://github.com/ShadowFlow123/passive-subfinder.git<br/>
-go build subfinder.go
+go build subfinder.go<br/>
 ./subfinder -d expamle.com
 
 
